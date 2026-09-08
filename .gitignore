@@ -1,0 +1,11 @@
+# エディタ / OS
+.DS_Store
+Thumbs.db
+*.swp
+
+# ランタイム生成物
+*.log
+
+# 配布物
+*.fxap
+*.pack.zip
